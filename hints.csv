@@ -1,0 +1,16 @@
+gap,hint_question_text,hint_answer_1_text,hint_answer_2_text,hint_answer_1_correct,hint_answer_2_correct,hint_answer_1_option,hint_answer_2_option
+equations as constraints,hint text 1,option 1 - True,option 2 - False,True,False,A,B
+graph analysis,hint text 2,option 1 - False,option 2 - True,False,True,A,B
+defining & using slope,hint text 3,option 1 - True,option 2 - False,True,False,A,B
+slope intercept form,hint text 4,option 1 - False,option 2 - True,False,True,A,B
+point slope form,hint text 5,option 1 - True,option 2 - False,True,False,A,B
+systems of equations - substitution,hint text 6,option 1 - False,option 2 - True,False,True,A,B
+systems of equations - elimination,hint text 7,option 1 - True,option 2 - False,True,False,A,B
+systems of equations - # of solutions,hint text 8,option 1 - False,option 2 - True,False,True,A,B
+Algebraic Manipulation - III,hint text 9,option 1 - True,option 2 - False,True,False,A,B
+Algebraic Manipulation - II,hint text 10,option 1 - False,option 2 - True,False,True,A,B
+Algebraic Manipulation - I,hint text 11,option 1 - True,option 2 - False,True,False,A,B
+relationships & modeling equations,hint text 12,option 1 - False,option 2 - True,False,True,A,B
+coordinate plane,hint text 13,option 1 - True,option 2 - False,True,False,A,B
+number line,hint text 14,option 1 - False,option 2 - True,False,True,A,B
+ordered pairs,hint text 15,option 1 - True,option 2 - False,True,False,A,B
